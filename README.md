@@ -11,7 +11,7 @@ JavaQuiz is a simple quiz application written in Java using Swing for the graphi
 
 # Usage
 1. Clone the repository:
-   git clone https://github.com/AtharvEkavire/JavaQuiz.git
+   git clone https://github.com/AtharvEkavire/JAVA_QUIZZ.git
 
 2. Compile the Java file:
    javac QuizApp.java
